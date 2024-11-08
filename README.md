@@ -3,7 +3,7 @@
 > A curated list of awesome real estate resources and projects.
 > For AI resources related to real estate, have a look at this site: [The Most Comprehensive List of Artificial Intelligence Resources for Real Estate](https://www.propertyaitools.com)
 
-## Contents
+## Table of Contents
 
 - [Accelerators / Venture Funds](#accelerators--venture-funds)
 - [GitHub Projects](#github-projects)
